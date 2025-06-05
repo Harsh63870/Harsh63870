@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsh63870 
+### 👋 Hi, I’m Harsh Vardhan Pandey
 - 👀 I’m interested in **Software Development** and **Artificial Intelligence / Machine Learning**.
 - 🌱 I’m currently learning and exploring cutting-edge AI/ML techniques and modern development frameworks.
 - 💞️ I’m looking to collaborate on ...
