@@ -39,19 +39,15 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 ---
-### 📊 GitHub Stats & Streak
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
+  <br />
   <img src="https://github-readme-streak-stats.demolab.com?user=Harsh63870&theme=radical" alt="GitHub Streak" />
-  <br/>
-  ![GitHub Streak](https://img.shields.io/badge/Streak-Check%20your%20GitHub%20contributions-red?style=for-the-badge)
-
 </p>
-
-
 
 ---
 
