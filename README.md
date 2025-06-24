@@ -6,6 +6,7 @@
 📫 Reach me at: [harshvardhanpandey372@gmail.com] | [https://www.linkedin.com/in/harsh-vardhan-pandey-00b463280/]  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I treat every bug as a puzzle — and I love solving puzzles!
+<br>
 ####### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
