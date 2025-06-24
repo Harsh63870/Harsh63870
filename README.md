@@ -1,4 +1,4 @@
-###### Hi there, I'm Harsh Vardhan Pandey 👋
+#### Harsh Vardhan Pandey 
 
 🚀 Passionate about **Software Development** and **Artificial Intelligence / Machine Learning**  
 🌱 Currently exploring **cutting-edge AI/ML techniques** and modern **web development frameworks**  
@@ -7,7 +7,7 @@
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I treat every bug as a puzzle — and I love solving puzzles!
 <br>
-####### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
