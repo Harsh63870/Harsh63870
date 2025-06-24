@@ -43,15 +43,14 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical&cache_seconds=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=radical&cache_seconds=1)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh63870&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh63870&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 ---
