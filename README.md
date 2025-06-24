@@ -1,7 +1,7 @@
-## 👋 Hi, I’m Harsh Vardhan Pandey
+#### 👋 Hi, I’m Harsh Vardhan Pandey
 
-🚀 A passionate programmer and aspiring AI/ML Engineer  
-🌱 Currently learning cutting-edge tech like Deep Learning & Backend Development  
+🚀 A passionate programmer  
+🌱 Currently learning cutting-edge AI/ML techniques and exploring the world of Web Developement   
 💼 Open to collaborating on real-world web or AI projects  
 📫 Reach me: [harshvardhanpandey372@gmail.com](mailto:harshvardhanpandey372@gmail.com) • [LinkedIn](https://www.linkedin.com/in/harsh-vardhan-pandey-00b463280/)
 
@@ -38,17 +38,7 @@
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
----
-## 📊 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh63870&theme=radical)
-
-
----
 
 <!---
 Harsh63870/Harsh63870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
