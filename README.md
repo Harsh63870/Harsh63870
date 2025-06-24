@@ -46,7 +46,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.demolab.com?user=Harsh63870&theme=radical" alt="GitHub Streak" />
+  <br/>
+  ![GitHub Streak](https://img.shields.io/badge/Streak-Check%20your%20GitHub%20contributions-red?style=for-the-badge)
+
 </p>
+
 
 
 ---
