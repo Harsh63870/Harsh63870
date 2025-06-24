@@ -19,8 +19,9 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=radical&cache_seconds=1)
+
 
 ---
 
