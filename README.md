@@ -40,14 +40,14 @@
 
 ---
 ### 📊 GitHub Stats & Streak
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical&count_private=true" alt="Harsh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=Harsh63870&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Harsh63870&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
