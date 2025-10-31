@@ -7,6 +7,10 @@
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Harsh63870&color=blue)
+---
+## 🎉 Hacktoberfest Badges
+
+[![@harsh63870 Holopin board](https://holopin.me/harsh63870)](https://holopin.io/@harsh63870)
 
 <!---
 Harsh63870/Harsh63870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
