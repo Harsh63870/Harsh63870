@@ -1,85 +1,134 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" alt="Waving hand" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Harsh+Vardhan+Pandey;Developer+%7C+Problem+Solver+%7C+Learner;Building+Skills+for+Real-World+Impact!" alt="Typing SVG" />
-  <br><br>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+
+# Hi, I'm Harsh Vardhan Pandey 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Developer+%7C+Problem+Solver+%7C+Learner;B.Tech+IT+Student;Exploring+DSA+%7C+Full+Stack+Development+%7C+AI%2FML;Building+Skills+for+Real-World+Impact" />
+
 </div>
 
 ---
 
 # 💫 About Me
 
-I believe that **consistent effort beats talent when talent stops working**. Rather than chasing shortcuts, I focus on building strong fundamentals and improving step by step. I enjoy understanding *why* things work, not just *how* they work.
+I believe **consistent effort beats talent when talent stops working**.
 
-As a **B.Tech IT student**, I actively explore **Data Structures & Algorithms**, **Full-Stack Web Development**, and **AI/ML basics**. I like breaking down complex problems into logical steps and writing clean, efficient solutions.
+I am a **B.Tech Information Technology student** passionate about building strong technical foundations and solving meaningful problems.
 
-Curiosity drives me to learn continuously — whether it’s improving my problem-solving skills, understanding system design concepts, or building real-world projects that actually matter.
+Rather than chasing shortcuts, I focus on understanding **why things work**, not just how they work.
 
-I value **discipline, clarity of thought, and long-term growth** over quick wins. My goal is to become a technically strong engineer who can think independently and build impactful solutions.
+I enjoy breaking complex problems into logical steps and writing **clean and efficient solutions**.
 
-If you’re someone who enjoys learning, building, or discussing ideas — let’s connect.
+### 🚀 Current Focus
 
----
+- 📚 Data Structures & Algorithms  
+- 🌐 Full Stack Web Development  
+- 🤖 AI / ML Fundamentals  
+- ⚙️ System Design Basics  
 
-## 🤝 Connect with Me
-
-<a href="https://www.linkedin.com/in/harsh-vardhan-pandey-00b463280/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:harshvardhanpandey372@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+My goal is to become a **technically strong engineer capable of building impactful systems.**
 
 ---
 
-## 💻 Coding Platforms
+# 🤝 Connect With Me
 
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow">
+<p>
+
+<a href="https://www.linkedin.com/in/harsh-vardhan-pandey-00b463280/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-CodeChef-744836?style=for-the-badge&logo=codechef&logoColor=white">
+<a href="mailto:harshvardhanpandey372@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Codeforces-445FAE?style=for-the-badge&logo=codeforces&logoColor=white">
+</p>
+
+---
+
+# 💻 Coding Platforms
+
+<p>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-445FAE?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://docs.python.org/3/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://en.cppreference.com/w/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://docs.oracle.com/en/java/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Harsh63870&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=Harsh63870&theme=transparent&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=transparent&hide_border=false" height="170"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&theme=transparent&hide_border=false&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Harsh63870&theme=transparent&hide_border=false" height="170"/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Harsh63870&theme=github-compact)
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=transparent&hide_border=false" height="170"/>
+
+</p>
 
 ---
 
-## 🏅 Achievements & Badges
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh63870&theme=github-compact"/>
+
+---
+
+# 🏅 Achievements & Badges
 
 [![@harsh63870 Holopin board](https://holopin.me/harsh63870)](https://holopin.io/@harsh63870)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harsh63870&color=0EA5E9&style=flat)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Harsh63870&color=0EA5E9&style=flat"/>
+</p>
+
+---
+
+⭐ **"Keep building. Keep learning. Small improvements every day lead to big results."**
