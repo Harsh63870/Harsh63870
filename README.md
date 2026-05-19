@@ -97,21 +97,15 @@ My goal is to become a **technically strong engineer capable of building impactf
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=transparent" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=transparent&hide_border=false" height="170"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Harsh63870&theme=transparent&hide_border=false" height="170"/>
-
+  <img src="https://streak-stats.demolab.com?user=Harsh63870&theme=transparent" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=transparent&hide_border=false" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=transparent" height="170"/>
 </p>
-
 ---
 
 # 📈 Contribution Graph
