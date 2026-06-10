@@ -25,6 +25,7 @@ I enjoy breaking complex problems into logical steps and writing **clean and eff
 - 🌐 Full Stack Web Development
 - 🤖 AI / ML Fundamentals
 - ⚙️ System Design Basics
+- ☁️ Cloud Native & CNCF Ecosystem (Cilium, Helm, Kubernetes Networking)
 
 My goal is to become a **technically strong engineer capable of building impactful systems.**
 
@@ -83,7 +84,7 @@ My goal is to become a **technically strong engineer capable of building impactf
 
 ### ☁️ DevOps & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,helm"/>
 </p>
 
 ### 🧰 Tools & Environment
