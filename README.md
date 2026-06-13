@@ -3,8 +3,6 @@
 
 # Hi, I'm Harsh Vardhan Pandey 👋
 
-<img width="410" height="421" alt="image" src="https://github.com/user-attachments/assets/a946e5d9-0089-4ffa-ab3a-ae7580c301b1" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Developer+%7C+Problem+Solver+%7C+Learner;B.Tech+IT+Student;Exploring+DSA+%7C+Full+Stack+Development+%7C+AI%2FML;Building+Skills+for+Real-World+Impact" />
 
 </div>
