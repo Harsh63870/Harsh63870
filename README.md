@@ -129,14 +129,6 @@ My goal is to strengthen my engineering fundamentals through projects, open-sour
 
 ---
 
-# 🌱 Open Source
-
-| Area          | Experience                     |
-| ------------- | ------------------------------ |
-| Contributions | Pull Requests, Code Reviews    |
-| Collaboration | Git, GitHub Workflows          |
-| Interests     | Cloud Native, Backend Systems  |
-| Learning      | Kubernetes, Networking, DevOps |
 
 
 # 📊 GitHub Stats
