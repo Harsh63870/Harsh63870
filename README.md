@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Harsh63870&color=0EA5E9&style=flat"/>
+</p>
 <div align="center">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
@@ -157,9 +160,7 @@ My goal is to strengthen my engineering fundamentals through projects, open-sour
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harsh63870&color=0EA5E9&style=flat"/>
-</p>
+
 
 ---
 
