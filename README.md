@@ -1,34 +1,27 @@
-<div align="center">
-
-# Hi, I'm Harsh Vardhan Pandey 👋
-
-### Backend Engineer • Cloud Native Contributor • Open Source Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=0EA5E9&center=true&vCenter=true&width=750&lines=Building+Reliable+Software;Contributing+to+Cloud+Native+Projects;Backend+Engineering+%7C+Distributed+Systems;Always+Learning+Something+New" />
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Harsh63870&style=flat-square&color=0EA5E9"/>
 
 </div>
+<div align="center">
 
----
+# I'm **Harsh Vardhan Pandey**
+### Backend Engineer • Cloud Native Contributor • Open Source Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=0EA5E9&center=true&vCenter=true&width=750&lines=Building+Reliable+Software;Contributing+to+Cloud+Native+Projects;Backend+Engineering+%7C+Distributed+Systems;Always+Learning+Something+New" />
+</div>
 
 # About Me
-
-🎓 B.Tech in Information Technology at **Indian Institute of Information Technology, Gwalior**
-
+> **Indian Institute of Information Technology, Gwalior** · B.Tech Information Technology · CGPA: **9.30**
+<br>
 I enjoy building backend systems, exploring distributed systems, and contributing to large-scale open source software.
 
 My current interests include:
-
 - Backend Engineering
 - Cloud Native Technologies
 - Kubernetes
 - Distributed Systems
 - Linux
 - Open Source
-
 ---
 
 # Open Source Contributions
@@ -42,11 +35,8 @@ My current interests include:
 ---
 
 # Included in Official Releases
-
 ## Cilium
-
 ### v1.20.0-pre.4 (https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.4)
-
 - **PR #46419**
 - Added Helm support for automatically deriving `nativeRoutingCIDR` from Cluster Pool IPAM.
 - Included in the official **Cilium v1.20.0-pre.4** release notes.
