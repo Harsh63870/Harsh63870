@@ -1,173 +1,143 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harsh63870&color=0EA5E9&style=flat"/>
-</p>
 <div align="center">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 
 # Hi, I'm Harsh Vardhan Pandey 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Developer+%7C+Problem+Solver+%7C+Learner;B.Tech+Information+Technology+Student;Learning+DSA+%7C+Backend+Development+%7C+Cloud+Native;Building+Skills+Through+Projects+and+Open+Source" />
+### Backend Engineer • Cloud Native Contributor • Open Source Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=0EA5E9&center=true&vCenter=true&width=750&lines=Building+Reliable+Software;Contributing+to+Cloud+Native+Projects;Backend+Engineering+%7C+Distributed+Systems;Always+Learning+Something+New" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Harsh63870&style=flat-square&color=0EA5E9"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# About Me
 
-I am a **B.Tech Information Technology student** passionate about software development, problem solving, and continuous learning.
+🎓 B.Tech in Information Technology at **Indian Institute of Information Technology, Gwalior**
 
-I enjoy understanding how systems work under the hood, whether it's algorithms, databases, backend architectures, or cloud technologies.
+I enjoy building backend systems, exploring distributed systems, and contributing to large-scale open source software.
 
-My goal is to strengthen my engineering fundamentals through projects, open-source contributions, and consistent practice.
+My current interests include:
 
----
-
-# 🚀 Current Focus
-
-- 📚 Data Structures & Algorithms
-- ⚙️ Backend Development
-- 🌐 Full Stack Web Development
-- 🧠 System Design Fundamentals
-- ☁️ Cloud Native Technologies
-- 🔍 Open Source Contributions
+- Backend Engineering
+- Cloud Native Technologies
+- Kubernetes
+- Distributed Systems
+- Linux
+- Open Source
 
 ---
 
-# 🤝 Connect With Me
+# Open Source Contributions
 
-<p>
-<a href="https://www.linkedin.com/in/harsh-vardhan-pandey-00b463280/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harshvardhanpandey372@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+| Organization | Area | Pull Requests |
+|--------------|------|---------------|
+| **Cilium** | Networking • eBPF • Kubernetes | https://github.com/pulls?q=is:pr+author:Harsh63870+org:cilium |
+| **Headlamp (Kubernetes SIGs)** | Kubernetes UI | https://github.com/pulls?q=is:pr+author:Harsh63870+repo:kubernetes-sigs/headlamp |
+| **KubeVela** | Cloud Native Platform Engineering | https://github.com/pulls?q=is:pr+author:Harsh63870+repo:kubevela/kubevela |
 
 ---
 
-# 💻 Coding Platforms
+# Included in Official Releases
 
-<p>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+## Cilium
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+### v1.20.0-pre.4 (https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.4)
 
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-445FAE?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-</p>
+- **PR #46419**
+- Added Helm support for automatically deriving `nativeRoutingCIDR` from Cluster Pool IPAM.
+- Included in the official **Cilium v1.20.0-pre.4** release notes.
+
+*(Additional release inclusions will be added here as future releases are published.)*
 
 ---
 
+# Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|------|
+| **EPC Intelligence Platform** | AI-powered EPC project management platform | Next.js • FastAPI • PostgreSQL |
+| **Devlog** | Local-first AI Git Commit & Pull Request Generator | React • FastAPI • LLM |
+| **Portfolio** | Personal developer portfolio | Next.js |
+| **GitHub Workflow Demo** | CI/CD pipelines with GitHub Actions | C++ • CMake • GitHub Actions |
+
+---
 # 🛠️ Tech Stack
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,golang"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" />
 </p>
 
-### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,nextjs"/>
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql"/>
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Xubuntu-2284F2?style=for-the-badge&logo=xubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/WSL%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-</p>
-
----
-
-# 🌱 Open Source
-
-- Exploring and contributing to open-source projects
-- Learning collaborative development workflows
-- Working with Git, GitHub, pull requests, and code reviews
-- Interested in cloud-native and backend ecosystems
-
----
-
-# 🚀 Featured Projects
-
-| Project               | Description                                    | Tech                        |
-| --------------------- | ---------------------------------------------- | --------------------------- |
-| **Devlog**            | Local-first AI Git Commit & PR Generator       | TypeScript, Ollama, Git     |
-| **Fun Study Tracker** | CLI-based Study Tracking & Productivity System | JavaScript, Full Stack      |
-| **MINDLY**            | Gamified Habit & Mood Tracking Platform        | JavaScript, UI/UX           |
-| **Portfolio**         | Personal Developer Portfolio Website           | JavaScript, Web Development |
-
----
-
-
-
-# 📊 GitHub Stats
+# GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=transparent" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=Harsh63870&theme=transparent" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh63870&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=transparent"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh63870&layout=compact&theme=transparent" height="170"/>
-</p>
+
+<img src="https://streak-stats.demolab.com?user=Harsh63870&theme=transparent"/>
+
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Activity
+
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh63870&theme=github-compact"/>
 
----
-
-# 🏅 Achievements & Badges
-
-[![@harsh63870 Holopin board](https://holopin.me/harsh63870)](https://holopin.io/@harsh63870)
+</p>
 
 ---
 
+# Badges
 
+[![An image of @harsh63870's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsh63870)](https://holopin.io/@harsh63870)
+
+---
+
+# Connect
+
+- LinkedIn: https://www.linkedin.com/in/harsh-vardhan-pandey-00b463280/
+- Email: harshvardhanpandey372@gmail.com
 
 ---
 
 <div align="center">
 
-### 📖 Philosophy
-
-*"Consistency compounds. Every project, contribution, and challenge is an opportunity to learn."*
+> *"Consistency compounds. Every contribution is another step toward becoming a better engineer."*
 
 </div>
