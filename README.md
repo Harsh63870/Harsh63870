@@ -24,14 +24,18 @@ My current interests include:
 - Open Source
 ---
 
-# Open Source Contributions
 
-| Organization | Area | Pull Requests |
-|--------------|------|---------------|
-| **Cilium** | Networking • eBPF • Kubernetes | https://github.com/pulls?q=is:pr+author:Harsh63870+org:cilium |
-| **Headlamp (Kubernetes SIGs)** | Kubernetes UI | https://github.com/pulls?q=is:pr+author:Harsh63870+repo:kubernetes-sigs/headlamp |
-| **KubeVela** | Cloud Native Platform Engineering | https://github.com/pulls?q=is:pr+author:Harsh63870+repo:kubevela/kubevela |
+# 🌐 Open Source Contributions
 
+I contribute to open-source projects across cloud-native infrastructure, observability, networking, and Kubernetes. My work includes feature enhancements, testing, documentation, and developer tooling.
+
+| Organization | Technical Areas | Pull Requests |
+|---|---|---|
+| [Cilium](https://github.com/cilium/cilium) | Networking · eBPF · Kubernetes | [View PRs](https://github.com/pulls?q=is%3Apr+author%3AHarsh63870+org%3Acilium) |
+| [Headlamp](https://github.com/kubernetes-sigs/headlamp) | Kubernetes · Go · Observability | [View PRs](https://github.com/pulls?q=is%3Apr+author%3AHarsh63870+repo%3Akubernetes-sigs%2Fheadlamp) |
+| [KubeVela](https://github.com/kubevela/kubevela) | Cloud-Native Platform Engineering | [View PRs](https://github.com/pulls?q=is%3Apr+author%3AHarsh63870+repo%3Akubevela%2Fkubevela) |
+| [OpenTelemetry](https://github.com/open-telemetry) | Observability · Go · Instrumentation Tooling | [View PRs](https://github.com/pulls?q=is%3Apr+author%3AHarsh63870+org%3Aopen-telemetry) |
+| [OpenEverest](https://github.com/openeverest/openeverest) | Cloud-Native Database Platform · Kubernetes | [View PRs](https://github.com/pulls?q=is%3Apr+author%3AHarsh63870+repo%3Aopeneverest%2Fopeneverest) |
 ---
 
 # Included in Official Releases
